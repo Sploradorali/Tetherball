@@ -1,3 +1,5 @@
+//
+
 document.getElementById("test").innerHTML = "Test!";
 
 var canvas = document.getElementById("tetherball");
